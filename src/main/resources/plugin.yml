@@ -1,0 +1,4 @@
+main: io.serializator.sandbox.Sandbox
+name: ${project.name}
+version: ${version}
+description: ${project.description}
